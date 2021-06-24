@@ -1,0 +1,30 @@
+
+h1 {
+    font-size: x-large;
+    font-weight: bold;
+    color: black;
+}
+ h2{ font-size: x-large;
+    color: blue;
+}
+h3  {
+        text-align: center;
+    font-size: x-large;
+color: black;
+font-weight: bold;
+}
+    h4{
+        font-size: large;
+color: black;
+text-align: left;
+}
+    h5{ 
+        font-size: large;
+color: black;
+text-align: left;
+}
+    h6{ 
+        font-size: large;
+color: black;
+text-align: left;
+}
